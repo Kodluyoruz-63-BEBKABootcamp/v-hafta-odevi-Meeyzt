@@ -1,5 +1,8 @@
 # v-hafta-odevi
 
+# DEVELOPER SUMMIT 2020'deki yazılım konferanslarından ilginizi çekenlerin özetlerini çıkarmaya çalışınız.
+ * dev.not un düzenlemiş olduğu DEVELOPER SUMMIT 2020 Etkinliğine dair youtube da sadece 1 tane video bulabildim onu da buraya bırakıyorum. Çok ilgimi çekmediği için de özetini çıkartamadım. [Developper Summit 2020 Erhan Yakut "Bir Saas ürünü hayata geçirmek" (Youtube)](https://www.youtube.com/watch?v=cqULp5aYDiE&list=PLhXBUthqwNDDELRdhF86ylssTSEZ28FUv)
+
 ## SQLite ve LocalDB kabramlarını karşılaştırınız.
 
  * **Sqlite**, bir veritabanı kütüphanesidir. Kullanımı ve kurulumu oldukça kolaydır. Kullanmak için kurulum yapmanızı gerektirmez. Herhangi bir kurulum prosedürü yoktur. Kullanmak için herhangi bir sunucu işlemini başlatmak, durdurmak ya da yapılandırmak gerekmez. Sqlite kullanımı için bir yöneticinin yeni bir veritabanı örneği oluşturmasına veya kullanıcılara erişim izni vermesine gerek yoktur. Bir sistem çökmesi ya da elektrik kesintisinden sonra kurtarmak için herhangi bir eylem gerektirmez. Sadece çalışır. Hayat kolaylaştıran bir uygulamadır.
